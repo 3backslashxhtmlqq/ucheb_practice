@@ -1,4 +1,5 @@
 <img width="256" height="256" alt="icon" src="https://github.com/user-attachments/assets/5702e498-5d23-45eb-a271-ca948fb0db1d" />
+
 # Локальный мобильный чат (VPoTOKE) (WIP)
 
 ## Описание
